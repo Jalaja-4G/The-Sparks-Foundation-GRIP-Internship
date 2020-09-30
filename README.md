@@ -9,3 +9,4 @@ In this internship, 4 tasks were given. These tasks are implemented using the pa
 3. Classification of Decision Trees (For the given Iris dataset, predict the type of the species when the user data is given).
 4. Exploring Business Analytics (For the given SampleStore dataset find out the weak areas in the business and work to make more profit).
 
+Detailed description of each task is available in Tasks-DS&ML.pdf 
